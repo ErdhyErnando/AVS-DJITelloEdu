@@ -20,4 +20,5 @@ This repository contains the code for a DJITelloEdu drone that can track and fol
 This project utilizes the DJITelloPy library, which provides a simple and intuitive interface to control the DJITello drone using Python. For more information on DJITelloPy and its functionalities, refer to the [official documentation](https://djitellopy.readthedocs.io/en/latest/).
 
 ## Acknowledgements 🙏
-Special thanks to Murtaza's Workshop - Robotics and AI for their valuable contributions and resources that inspired and guided the development of this project. Their expertise and dedication greatly influenced the success of implementing face tracking and keyboard control on the DJITello drone. Thank you, Murtaza's Workshop.
+Special thanks to [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/@murtazasworkshop) for their valuable contributions and resources that inspired and guided the development of this project. Their expertise and dedication greatly influenced the success of implementing face tracking and keyboard control on the DJITello drone. Thank you, Murtaza's Workshop.
+
