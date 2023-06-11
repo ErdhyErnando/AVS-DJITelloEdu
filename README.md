@@ -4,7 +4,7 @@ This repository contains the code for a DJITelloEdu drone that can track and fol
 
 ## Files
 - `face-tracking-following.py` 🐍: Main Python script for controlling the DJITello drone and performing face tracking.
-- `haarcascade_frontalface_default.xml` 📄: Haar cascade XML file for face detection.
+- `haarcascade_frontalface_default.xml` 📄: [Haar cascade XML file](https://github.com/opencv/opencv/blob/4.x/data/haarcascades_cuda/haarcascade_frontalface_default.xml) for face detection.
 - `check-battery.py` 🔋: Python script to check the DJITello battery.
 - `keyboard-movement-control.py` ⌨️: Python script for controlling the DJITello using the keyboard.
 
